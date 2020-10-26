@@ -1,0 +1,47 @@
+#para{
+    color: blue;
+    line-height:1.7; 
+
+}
+
+h4{
+    font-family:  'Dancing Script', cursive;
+    font-size: 20px;
+    background:#f71954 ;
+    color: white;
+    display: inline;
+    transition:5s ;
+    padding:5px;
+     margin: 20px; */
+    border: solid black;
+    border-radius: 20px;
+    box-shadow:3px 3px 15px grey;
+    opacity: 0.2;
+    transform:translatey(150px);   
+}
+
+.test {
+    color: pink;
+    text-align: center;
+    width: 1000px;
+    height: 0px;
+    cursor: pointer;
+}
+
+.test:hover {
+    color: blue;
+}
+
+body {
+     background-image: url('https://support.apple.com/library/content/dam/edam/applecare/images/en_US/applewatch/apple-watch-series6-000-aluminum-gps-colors.png');
+     background-size: cover;
+     background-repeat: no-repeat;
+     overflow: scroll;
+     height: 1000px;
+     position: fixed;
+}
+
+ul{
+    list-style-type:square;
+    color: white;
+}
